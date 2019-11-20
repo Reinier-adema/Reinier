@@ -1,0 +1,10 @@
+C:\Users\reini\source\repos\Ogen_Inleveropdracht\Ogen_Inleveropdracht\bin\Debug\Ogen_Inleveropdracht.exe.config
+C:\Users\reini\source\repos\Ogen_Inleveropdracht\Ogen_Inleveropdracht\bin\Debug\Ogen_Inleveropdracht.exe
+C:\Users\reini\source\repos\Ogen_Inleveropdracht\Ogen_Inleveropdracht\bin\Debug\Ogen_Inleveropdracht.pdb
+C:\Users\reini\source\repos\Ogen_Inleveropdracht\Ogen_Inleveropdracht\obj\Debug\Ogen_Inleveropdracht.csprojAssemblyReference.cache
+C:\Users\reini\source\repos\Ogen_Inleveropdracht\Ogen_Inleveropdracht\obj\Debug\Ogen_Inleveropdracht.Properties.Resources.resources
+C:\Users\reini\source\repos\Ogen_Inleveropdracht\Ogen_Inleveropdracht\obj\Debug\Ogen_Inleveropdracht.csproj.GenerateResource.cache
+C:\Users\reini\source\repos\Ogen_Inleveropdracht\Ogen_Inleveropdracht\obj\Debug\Ogen_Inleveropdracht.csproj.CoreCompileInputs.cache
+C:\Users\reini\source\repos\Ogen_Inleveropdracht\Ogen_Inleveropdracht\obj\Debug\Ogen_Inleveropdracht.exe
+C:\Users\reini\source\repos\Ogen_Inleveropdracht\Ogen_Inleveropdracht\obj\Debug\Ogen_Inleveropdracht.pdb
+C:\Users\reini\source\repos\Ogen_Inleveropdracht\Ogen_Inleveropdracht\obj\Debug\Ogen_Inleveropdracht.Form1.resources
