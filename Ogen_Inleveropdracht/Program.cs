@@ -11,6 +11,7 @@ namespace Ogen_Inleveropdracht
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
+        /// Dit is een test
         [STAThread]
         static void Main()
         {

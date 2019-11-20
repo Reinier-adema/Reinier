@@ -26,6 +26,7 @@ namespace Ogen_Inleveropdracht
         int Yverschil = 0;
         int verschiloogmuis = 0;
         Thread test;
+        int testenmagook = 23;
 
         public Form1()
         {
@@ -36,6 +37,8 @@ namespace Ogen_Inleveropdracht
             this.Paint += this.TekenMethode;
             this.DoubleBuffered = true;
             Grootteoog = 3 * breedte;
+            if(testenmagook == 22)
+            { }
         }
 
         private void TekenMethode(object sender, PaintEventArgs gr)
